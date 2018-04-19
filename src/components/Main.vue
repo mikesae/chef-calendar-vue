@@ -14,7 +14,7 @@
     components: {
       Calendar
     },
-    data() {
+    data () {
       return {
         msg: 'Chef'
       }
